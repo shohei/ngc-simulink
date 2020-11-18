@@ -6,6 +6,17 @@ Reference: https://www.youtube.com/watch?v=0AJ6E48Aj9U
 ```
 > model
 > ngc
+ 
+$ ./launchFG.sh
 ```
+
+![rocket.png](image/rocket.png)
+
+![flight.png](image/flight.png)
+
+![simulink](image/simulink.png)
+
+![simulink2](image/simulink2.png)
+
 
 
